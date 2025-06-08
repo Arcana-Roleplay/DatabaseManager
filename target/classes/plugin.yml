@@ -1,0 +1,6 @@
+name: DatabaseManager
+version: '1.0.0'
+main: dev.ayoangelo.databasemanager.DatabaseManager
+api-version: '1.16'
+author: AyoAngelo
+website: https://t.me/AyoAngelo
